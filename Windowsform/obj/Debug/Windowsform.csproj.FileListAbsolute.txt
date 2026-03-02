@@ -1,0 +1,11 @@
+C:\Users\kygul\source\repos\Windowsform\bin\Debug\Windowsform.exe.config
+C:\Users\kygul\source\repos\Windowsform\bin\Debug\Windowsform.exe
+C:\Users\kygul\source\repos\Windowsform\bin\Debug\Windowsform.pdb
+C:\Users\kygul\source\repos\Windowsform\obj\Debug\Windowsform.csproj.AssemblyReference.cache
+C:\Users\kygul\source\repos\Windowsform\obj\Debug\Windowsform.Form1.resources
+C:\Users\kygul\source\repos\Windowsform\obj\Debug\Windowsform.Properties.Resources.resources
+C:\Users\kygul\source\repos\Windowsform\obj\Debug\Windowsform.csproj.GenerateResource.cache
+C:\Users\kygul\source\repos\Windowsform\obj\Debug\Windowsform.csproj.CoreCompileInputs.cache
+C:\Users\kygul\source\repos\Windowsform\obj\Debug\Windowsform.exe
+C:\Users\kygul\source\repos\Windowsform\obj\Debug\Windowsform.pdb
+C:\Users\kygul\source\repos\Windowsform\obj\Debug\Windowsform.exe.config

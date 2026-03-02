@@ -1,0 +1,11 @@
+C:\Users\kygul\source\repos\wf_tabcontrol\bin\Debug\wf_tabcontrol.exe.config
+C:\Users\kygul\source\repos\wf_tabcontrol\bin\Debug\wf_tabcontrol.exe
+C:\Users\kygul\source\repos\wf_tabcontrol\bin\Debug\wf_tabcontrol.pdb
+C:\Users\kygul\source\repos\wf_tabcontrol\obj\Debug\wf_tabcontrol.csproj.AssemblyReference.cache
+C:\Users\kygul\source\repos\wf_tabcontrol\obj\Debug\wf_tabcontrol.Form1.resources
+C:\Users\kygul\source\repos\wf_tabcontrol\obj\Debug\wf_tabcontrol.Properties.Resources.resources
+C:\Users\kygul\source\repos\wf_tabcontrol\obj\Debug\wf_tabcontrol.csproj.GenerateResource.cache
+C:\Users\kygul\source\repos\wf_tabcontrol\obj\Debug\wf_tabcontrol.csproj.CoreCompileInputs.cache
+C:\Users\kygul\source\repos\wf_tabcontrol\obj\Debug\wf_tabcontrol.exe
+C:\Users\kygul\source\repos\wf_tabcontrol\obj\Debug\wf_tabcontrol.pdb
+C:\Users\kygul\source\repos\wf_tabcontrol\obj\Debug\wf_tabcontrol.exe.config
