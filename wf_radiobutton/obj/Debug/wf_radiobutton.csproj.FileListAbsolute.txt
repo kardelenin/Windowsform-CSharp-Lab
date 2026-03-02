@@ -1,0 +1,10 @@
+C:\Users\kygul\source\repos\wf_radiobutton\obj\Debug\wf_radiobutton.csproj.AssemblyReference.cache
+C:\Users\kygul\source\repos\wf_radiobutton\obj\Debug\wf_radiobutton.Form1.resources
+C:\Users\kygul\source\repos\wf_radiobutton\obj\Debug\wf_radiobutton.Properties.Resources.resources
+C:\Users\kygul\source\repos\wf_radiobutton\obj\Debug\wf_radiobutton.csproj.GenerateResource.cache
+C:\Users\kygul\source\repos\wf_radiobutton\obj\Debug\wf_radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\kygul\source\repos\wf_radiobutton\bin\Debug\wf_radiobutton.exe.config
+C:\Users\kygul\source\repos\wf_radiobutton\bin\Debug\wf_radiobutton.exe
+C:\Users\kygul\source\repos\wf_radiobutton\bin\Debug\wf_radiobutton.pdb
+C:\Users\kygul\source\repos\wf_radiobutton\obj\Debug\wf_radiobutton.exe
+C:\Users\kygul\source\repos\wf_radiobutton\obj\Debug\wf_radiobutton.pdb

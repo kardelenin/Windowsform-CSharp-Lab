@@ -1,0 +1,11 @@
+C:\Users\kygul\source\repos\wf_listbox\bin\Debug\wf_listbox.exe.config
+C:\Users\kygul\source\repos\wf_listbox\bin\Debug\wf_listbox.exe
+C:\Users\kygul\source\repos\wf_listbox\bin\Debug\wf_listbox.pdb
+C:\Users\kygul\source\repos\wf_listbox\obj\Debug\wf_listbox.csproj.AssemblyReference.cache
+C:\Users\kygul\source\repos\wf_listbox\obj\Debug\wf_listbox.Form1.resources
+C:\Users\kygul\source\repos\wf_listbox\obj\Debug\wf_listbox.Properties.Resources.resources
+C:\Users\kygul\source\repos\wf_listbox\obj\Debug\wf_listbox.csproj.GenerateResource.cache
+C:\Users\kygul\source\repos\wf_listbox\obj\Debug\wf_listbox.csproj.CoreCompileInputs.cache
+C:\Users\kygul\source\repos\wf_listbox\obj\Debug\wf_listbox.exe
+C:\Users\kygul\source\repos\wf_listbox\obj\Debug\wf_listbox.pdb
+C:\Users\kygul\source\repos\wf_listbox\obj\Debug\wf_listbox.exe.config
