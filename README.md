@@ -1,0 +1,1 @@
+Çalışma devam etmektedir.
