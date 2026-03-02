@@ -1,0 +1,14 @@
+C:\Users\kygul\source\repos\DDL\obj\Debug\DDL.csproj.AssemblyReference.cache
+C:\Users\kygul\source\repos\DDL\obj\Debug\DDL.Form1.resources
+C:\Users\kygul\source\repos\DDL\obj\Debug\DDL.Properties.Resources.resources
+C:\Users\kygul\source\repos\DDL\obj\Debug\DDL.csproj.GenerateResource.cache
+C:\Users\kygul\source\repos\DDL\obj\Debug\DDL.csproj.CoreCompileInputs.cache
+C:\Users\kygul\source\repos\DDL\bin\Debug\DDL.exe.config
+C:\Users\kygul\source\repos\DDL\bin\Debug\DDL.exe
+C:\Users\kygul\source\repos\DDL\bin\Debug\DDL.pdb
+C:\Users\kygul\source\repos\DDL\bin\Debug\4islem.dll
+C:\Users\kygul\source\repos\DDL\bin\Debug\4islem.pdb
+C:\Users\kygul\source\repos\DDL\obj\Debug\DDL.csproj.Up2Date
+C:\Users\kygul\source\repos\DDL\obj\Debug\DDL.exe
+C:\Users\kygul\source\repos\DDL\obj\Debug\DDL.pdb
+C:\Users\kygul\source\repos\DDL\obj\Debug\DDL.exe.config
