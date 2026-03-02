@@ -1,0 +1,10 @@
+C:\Users\kygul\source\repos\wf_checkbox\bin\Debug\wf_checkbox.exe.config
+C:\Users\kygul\source\repos\wf_checkbox\bin\Debug\wf_checkbox.exe
+C:\Users\kygul\source\repos\wf_checkbox\bin\Debug\wf_checkbox.pdb
+C:\Users\kygul\source\repos\wf_checkbox\obj\Debug\wf_checkbox.csproj.AssemblyReference.cache
+C:\Users\kygul\source\repos\wf_checkbox\obj\Debug\wf_checkbox.Form1.resources
+C:\Users\kygul\source\repos\wf_checkbox\obj\Debug\wf_checkbox.Properties.Resources.resources
+C:\Users\kygul\source\repos\wf_checkbox\obj\Debug\wf_checkbox.csproj.GenerateResource.cache
+C:\Users\kygul\source\repos\wf_checkbox\obj\Debug\wf_checkbox.csproj.CoreCompileInputs.cache
+C:\Users\kygul\source\repos\wf_checkbox\obj\Debug\wf_checkbox.exe
+C:\Users\kygul\source\repos\wf_checkbox\obj\Debug\wf_checkbox.pdb

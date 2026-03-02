@@ -1,0 +1,10 @@
+C:\Users\kygul\source\repos\wf_linklabel\bin\Debug\wf_linklabel.exe.config
+C:\Users\kygul\source\repos\wf_linklabel\bin\Debug\wf_linklabel.exe
+C:\Users\kygul\source\repos\wf_linklabel\bin\Debug\wf_linklabel.pdb
+C:\Users\kygul\source\repos\wf_linklabel\obj\Debug\wf_linklabel.csproj.AssemblyReference.cache
+C:\Users\kygul\source\repos\wf_linklabel\obj\Debug\wf_linklabel.Form1.resources
+C:\Users\kygul\source\repos\wf_linklabel\obj\Debug\wf_linklabel.Properties.Resources.resources
+C:\Users\kygul\source\repos\wf_linklabel\obj\Debug\wf_linklabel.csproj.GenerateResource.cache
+C:\Users\kygul\source\repos\wf_linklabel\obj\Debug\wf_linklabel.csproj.CoreCompileInputs.cache
+C:\Users\kygul\source\repos\wf_linklabel\obj\Debug\wf_linklabel.exe
+C:\Users\kygul\source\repos\wf_linklabel\obj\Debug\wf_linklabel.pdb
